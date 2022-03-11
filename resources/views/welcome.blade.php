@@ -465,9 +465,9 @@
         <div class="row">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="{{asset('img/wiliam.png') }}">
+              <a href="#"><img alt="" class="team-img" src="{{asset('img/Screenshot_1.png') }}">
                 <div class="card-title-wrap">
-                  <span class="card-title">William Pollak</span> <span class="card-text">CEO</span>
+                  <span class="card-title">Dominique Youmans</span> <span class="card-text">CEO</span>
                 </div>
 
                 <div class="team-over">
@@ -476,7 +476,7 @@
                   </h4>
 
                   <nav class="social-nav">
-                    <a href="https://www.linkedin.com/in/william-pollak-7145bb200/" target="_blank"><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/ddy-connect/" target="_blank"><i class="bi bi-linkedin"></i></a>
                   </nav>
 
                 </div>
@@ -562,17 +562,17 @@
             <div class="info">
               <div>
                 <i class="bi bi-geo-alt"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>Salem, Oregon<br>United States</p>
               </div>
 
               <div>
                 <i class="bi bi-envelope"></i>
-                <p>rsitgroupceo@gmail.com</p>
+                <p>ddyoumans@icloud.com</p>
               </div>
 
               <div>
                 <i class="bi bi-phone"></i>
-                <p>+1 7204778603</p>
+                <p>+1 (609) 670-9154</p>
               </div>
 
             </div>
